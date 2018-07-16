@@ -1,0 +1,7 @@
+h1, h2, h3, h4, h5, h6, p {
+ font-size: 17px;    
+ padding: 18px auto;
+ font-family: monospace, 'sans-serif';
+ text-align: center;
+ page-break-after: avoid;    
+}

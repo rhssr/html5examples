@@ -107,3 +107,21 @@ Now, let's make the complete example:
 <code>
 &#60;h1> Hello World! This is a example from the HTML5 Guide! (PS: Do not use the & # 60; h6>, HAHAHAHAAA!) &#60;/h1>
 </code>
+
+After all this we must close the tag &#60;body> as I said the tags should be closed with a slash (/) so that is what we are going to do,
+
+And the same with the tag &#60;html>
+
+That would leave the document at the end:
+
+<code>
+ &#60;/body>
+
+&#60;/html>
+</code>
+
+And voila, our HTML5 document has finished, the instruction for the browser will not close.
+
+By the way and before finishing: The HTML abbreviation means: "Hyper(-)Text Markup Language" and there are more extensions but we will see later, by the way, did you know that the HTML comes from the XML? And that the XML abbreviation means: "eXtensible Markup Language"? And that there is an extension of the HTML that is: "XHTML" and the abbreviation means: "eXtensible Hyper(-)Text Markip Language"? All this we will see later :)
+
+Now if I say goodbye, see you tomorrow with another example, guide and tutorial, goodbye! - Cheers, rhssr.

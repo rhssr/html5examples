@@ -46,7 +46,8 @@ Now an example:
 &#60;title> Good Morning! </title>
 </code>
 
-Now we must close the <head> tag, but we are in another big doubt, how do we close it? Very easy my dear friend, and this goes for the whole family x3 (Ok, better I stop being so heavy with that), better we change the word, this goes for the whole document, if we want to close a tag we must "make" another tag that is <head> but this will be the one that will close it, because it is different (Wow, what a poet I am!);
+
+Now we must close the &#60;head> tag, but we are in another big doubt, how do we close it? Very easy my dear friend, and this goes for the whole family x3 (Ok, better I stop being so heavy with that), better we change the word, this goes for the whole document, if we want to close a tag we must "make" another tag that is <head> but this will be the one that will close it, because it is different (Wow, what a poet I am!);
 
 Example: 
 
@@ -64,4 +65,45 @@ Example:
 
 <code>
 &#60;/head>
+</code>
+
+
+Very good! Now we should put the content of our HTML document, but we fall back into a doubt, and it is: "Which tag do we need exactly to start making the content of the document?"
+
+The answer is very simple, what do we have under our heads? The true neck? and under the neck? The body, because the tag we need is exactly the body, if the tag is <code> &#60;body></code>
+
+With whose tag we will start to make the content, eye: content, of our HTML document.
+
+We have discovered how to start the content of the document, but ... here comes another doubt: "How do we add a large text?" The answer is, with the tag so used by web pages, if accurate, as some may think, the tag <code> &#60;h1></code>
+
+The h is short for: "header" and the number is "one" obviously not? Why the numbers?
+
+The answer is simple, imagine that there are different types of "header" no? for example: number one is bigger, and number two reduces the size of the first one, what about that example? Is it true that it was good? there are 6 types of header and 6 is sadly the smallest of all :(
+
+&#60;h6>: "Please do not bully me! I am small, it is true but I have the right to be used creators of web pages :("
+
+I honestly do not use it because of how small it is but good, then another day we will see how to put it bigger ;).
+
+Now, let's make the complete example:
+
+<code>
+&#60;!DOCTYPE html>
+
+&#60;html lang="en">
+</code>
+
+<code>
+&#60;head>
+
+&#60;title> Good Morning! &#60;/title>
+</code>
+
+<code>
+&#60;/head>
+
+&#60;body>
+</code>
+
+<code>
+&#60;h1> Hello World! This is a example from the HTML5 Guide! (PS: Do not use the & # 60; h6>, HAHAHAHAAA!) &#60;/h1>
 </code>
